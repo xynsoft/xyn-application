@@ -1,7 +1,7 @@
 # XYN Application
->XYN is a Web application 
+#####XYN is a Web application 
 
-###### Based on:
+Based on:
  - Symfony 4
  - Angular 6
  - Bootstrap 4
