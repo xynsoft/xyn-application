@@ -1,5 +1,5 @@
 # XYN Application
-#####XYN is a Web application 
+##### XYN is a Web application 
 
 Based on:
  - Symfony 4
