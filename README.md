@@ -1,7 +1,6 @@
 # XYN Application
-XYN is a Web application created by instructions from official documentation
 
-###### Base:
+XYN is a Web application created by instructions from official documentation of:
  - Symfony 4
  - Angular 6
  - Bootstrap 4
