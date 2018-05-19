@@ -6,4 +6,4 @@ XYN is a Web application created by instructions from official documentation of:
  - Bootstrap 4
  - PostgreSQL
  
-> you see this because someone decided to take and do as recommended in official documentation
+> you see this because someone did it!
