@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="800"
+   viewBox="0 0 211.664 211.664"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="xyn-logo.svg"
+   inkscape:export-filename="C:\xampp\htdocs\www\symfony\xyn-logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-114.28571"
+     inkscape:cy="560"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3680" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-85.33334)">
+    <g
+       id="g4499"
+       transform="translate(0,-19.384623)">
+      <text
+         id="text3684"
+         y="226.73482"
+         x="16.809103"
+         style="font-style:normal;font-weight:normal;font-size:10.58320045px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#353131;fill-opacity:1;stroke:none;stroke-width:0.26458001"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:101.59871674px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';fill:#353131;fill-opacity:1;stroke-width:0.26458001"
+           y="226.73482"
+           x="16.809103"
+           id="tspan3682"
+           sodipodi:role="line">XYN</tspan></text>
+      <text
+         id="text4493"
+         y="265.24774"
+         x="54.911007"
+         style="font-style:normal;font-weight:normal;font-size:10.58320045px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458001"
+         xml:space="preserve"><tspan
+           dx="2.97"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93312073px;line-height:13.22900105px;font-family:Terminal;-inkscape-font-specification:Terminal;stroke-width:0.26458001"
+           y="265.24774"
+           x="54.911007"
+           id="tspan4491"
+           sodipodi:role="line">SOFTWARE</tspan></text>
+    </g>
+  </g>
+</svg>
